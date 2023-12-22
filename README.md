@@ -4,7 +4,7 @@
 
 🤖人工智能:
 
-https://raw.githubusercontent.com/jackeyzzz12138/awesome-rules/main/ai.txt
+https://raw.githubusercontent.com/jackeyzzz12138/awesome-rules/main/ai.list
 https://raw.githubusercontent.com/jackeyzzz12138/awesome-rules/main/ai.yaml
 
 
